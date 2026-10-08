@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Jagat Jena! 👋
 
-<!--
-**beyoujagat/beyoujagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Transitioning into AI Implementation & Workflows
 
-Here are some ideas to get you started:
+I am a career switcher actively bridging the gap between advanced AI capabilities and real-world execution. I focus on mastering LLM ecosystems to drive efficiency and intelligent task management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ **LLM Expertise:** Google Gemini, ChatGPT (OpenAI), Anthropic Claude, Perplexity.
+- 🎯 **Core Focus:** Advanced Prompt Engineering, Information Synthesis, and AI-assisted workflows.
+- ⚡ **The Goal:** Helping businesses leverage AI tools to automate repetitive tasks and scale productivity.
+- - 💼 **Connect with me:** [LinkedIn](https://linkedin.com/in/jagat-jena-436332b9)
+
+---
+*"Exploring AI Automation & Intelligent Workflows | Building & Learning One Step at a Time."*
